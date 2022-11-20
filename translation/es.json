@@ -1,0 +1,15 @@
+{
+  "CHOICE_YOUR_LANGUAGE": "Elige tu idioma",
+  "PREVIOUS_PAGE": "Página anterior",
+  "NEXT_PAGE": "página siguiente",
+  "PAGES": "Page: {}/{}",
+  "FR": "Francés",
+  "EN": "Inglés",
+  "ES" : "Española",
+  "BACK": "Retorno",
+  "FORWARD": "Hacia adelante",
+  "START": "Partida: ",
+  "TARGET": "Objetivo: ",
+  "CURRENT_PAGE": "Página actual: ",
+  "ROUND": "Asaltos: "
+}
